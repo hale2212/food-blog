@@ -1,0 +1,89 @@
+/* ================ main 2 top ================= */
+
+.main2 {
+    padding: 90px 0 90px 0;
+}
+h2 {
+    font-size: 36px;
+    color: #474747;
+}
+
+.main2_top {
+    padding-bottom: 60px;
+}
+
+.line {
+    background-color: #ff2a6b;
+    height: 5px;
+    width: 40px;
+}
+
+/* ================ main2 center =============== */
+
+.center__content {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0 -15px;
+}
+
+.center__content > li {
+    padding: 0 15px;
+    list-style: none;
+    padding-bottom: 30px;
+}
+
+.recipes__items {
+    position: relative;
+    width: 362px;
+    
+}
+
+.recipes__items > img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.center__sum {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 33.333333%;  
+
+    background-color: #ff2a6b;
+    width: 80%;
+    height: 74px;
+    padding: 14px 20px;
+}
+
+.center__sum > .stars > li{
+    list-style: none;
+    color: yellow;
+    padding-right: 5px;
+}
+
+.center__sum > .stars {
+    display: flex;
+}
+
+.center__sum > p {
+    color: #fff;
+}
+
+/* ======================= main2 bot ====================== */
+
+.main2_bot {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.main2_bot > p {
+    height: 50px;
+    width: 50px;
+
+    background-color: #ff2a6b;
+    padding: 12px 15px;
+    margin: 0 10px;
+    color: #fff;
+    font-size: 18px;
+}

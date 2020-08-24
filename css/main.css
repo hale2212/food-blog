@@ -1,0 +1,140 @@
+.hero__bg-main {
+    background-image: url(../images/slider-bg-2.jpg);
+    background-image: no-repeat;
+    background-position: top center;
+    padding: 60px 1.5rem;
+    text-align: center;
+}
+
+.hero__bg-main h2 {
+    color: white;
+    padding: 10px 20px;
+    font-size: 50px;
+    background-color: #fdc856;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.hero__bg-main h3 {
+    color: white;
+    padding: 10px 20px;
+    font-size: 40px;
+    background-color: #bdde64;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+
+
+
+.main3__info-left > ul > .row > img {
+    height: 77px;
+    width: 77px;
+}
+
+.main3__info-left > ul > .row {
+    padding-bottom: 25px;
+    justify-content: left;
+}
+
+/* .main3__info-left > ul > li {
+    align-items: center;
+} */
+
+.main3__info-sum {
+    padding-left: 20px;
+    /* background-color: pink; */
+    width: 200px;
+}
+
+.main3__info-time {
+    color: #ff2a6b;
+    font-size: 14px;
+    padding: 4px 0;
+}
+
+.main3__info-food {
+    color: #474747;
+    font-size: 16px;
+    padding: 4px 0;
+}
+
+.main3-star > li > i {
+    font-size: 12px;
+    color: rgb(255, 196, 0);
+}
+
+.main3-star > li {
+    list-style: none;
+}
+
+.main3-star {
+    width: 100px;
+}
+
+
+.main3__info-right img {
+    width: 362px;
+}
+
+.main3__info-right {
+    width: 362px;
+    box-shadow: 2px 2px 4px 2px rgb(209, 209, 209);
+    height: 587px;
+}
+
+.main3__info-text {
+    padding: 40px 40px;
+}
+
+.main3__info-left h4 {
+    font-size: 30px;
+    padding: 30px 0;
+}
+
+.main3__info-text > h4 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: inherit;
+}
+
+.main3__info-text > .chef {
+    font-size: 14px;
+    padding-top: 10px;
+    color: #ff2a6b;
+    font-weight: 700;
+}
+
+.main3__info-text > .comment {
+    font-size: 12px;
+}
+
+.main3__info-text > .content {
+    font-size: 14px;
+    font-weight: inherit;
+    padding: 25px 0;
+    line-height: 20px;
+}
+
+.main3__info {
+    background-color: #f4f7fb;
+    padding: 90px 0;
+}
+
+
+.main4__banner {
+    background-color: #fdc856;
+    height: 290px;
+}
+
+
+
+.banner-left > img {
+    width: 166px;
+
+}
+
+.banner-content > img {
+    width: 38px;
+    border-radius: 50%;
+}

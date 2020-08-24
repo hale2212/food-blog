@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+}
+
+
+/* ============= main =========== */
+
+.hero__bg {
+    background-image: url(../images/page-top-bg.jpg);
+    background-image: no-repeat;
+    background-position: top center;
+    padding: 60px 1.5rem;
+    text-align: center;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    padding: 10px 20px;
+    font-size: 60px;
+    background-color: #ff2a6b;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.button {
+    background-color: #ff2a6b;
+    height: 55px;
+    width: 140px;
+    padding: 17px 30px;
+    margin-top: 60px;
+}
+
+.button > a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.row-fact {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    height: 400px;
+}
+
+.row-about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px 0;
+}
+
+.about__content {
+    margin-top: 50px;
+    line-height: 2.1;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.fact-detail {
+    text-align: center;
+    
+}
+
+h3 {
+    font-size: 50px;
+    padding: 18px 0;
+}
+
+.icon-item {
+    background-color: #eff3f7;
+}
+
+.row-new {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0 -15px;
+}
